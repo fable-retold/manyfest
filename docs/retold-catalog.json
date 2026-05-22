@@ -1,107 +1,87 @@
 {
-	"Generated": "2026-04-10T17:27:19.027Z",
+	"Generated": "2026-05-22T05:48:16.949Z",
+	"Mode": "module",
 	"GitHubOrg": "stevenvelozo",
 	"DefaultBranch": "master",
-	"Groups": [
-		{
-			"Name": ".config",
-			"Key": ".config",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "code-server",
-					"Repo": "code-server",
-					"Group": ".config",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				},
-				{
-					"Name": "configstore",
-					"Repo": "configstore",
-					"Group": ".config",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				},
-				{
-					"Name": "installation",
-					"Repo": "installation",
-					"Group": ".config",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				},
-				{
-					"Name": "luxury-extras",
-					"Repo": "luxury-extras",
-					"Group": ".config",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Dist",
-			"Key": "dist",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "indoctrinate_content_staging",
-					"Repo": "indoctrinate_content_staging",
-					"Group": "dist",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Docs",
-			"Key": "docs",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "css",
-					"Repo": "css",
-					"Group": "docs",
-					"Branch": "master",
-					"HasDocs": true,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": [
-						"css/docuserve.css"
-					]
-				}
-			]
-		},
-		{
-			"Name": "Examples",
-			"Key": "examples",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "chocula",
-					"Repo": "chocula",
-					"Group": "examples",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		}
-	]
+	"Module": {
+		"Name": "manyfest",
+		"Repo": "manyfest",
+		"Group": "",
+		"Branch": "master",
+		"HasDocs": true,
+		"HasCover": true,
+		"Sidebar": [
+			{
+				"Title": "Getting Started",
+				"Children": [
+					{
+						"Title": "Introduction",
+						"Path": "README.md"
+					},
+					{
+						"Title": "Quickstart",
+						"Path": "quickstart.md"
+					}
+				]
+			},
+			{
+				"Title": "Working with Objects",
+				"Children": [
+					{
+						"Title": "Reading Values",
+						"Path": "reading.md"
+					},
+					{
+						"Title": "Writing Values",
+						"Path": "writing.md"
+					},
+					{
+						"Title": "Validating Objects",
+						"Path": "validating.md"
+					}
+				]
+			},
+			{
+				"Title": "Reference",
+				"Children": [
+					{
+						"Title": "Schema Definition",
+						"Path": "schema.md"
+					},
+					{
+						"Title": "Address Notation",
+						"Path": "address-notation.md"
+					},
+					{
+						"Title": "Hash Translation",
+						"Path": "hash-translation.md"
+					},
+					{
+						"Title": "Schema Manipulation",
+						"Path": "schema-manipulation.md"
+					}
+				]
+			}
+		],
+		"DocFiles": [
+			".nojekyll",
+			"README.md",
+			"_brand.json",
+			"_cover.md",
+			"_sidebar.md",
+			"_version.json",
+			"address-notation.md",
+			"hash-translation.md",
+			"index.html",
+			"quickstart.md",
+			"reading.md",
+			"retold-catalog.json",
+			"retold-keyword-index.json",
+			"schema-manipulation.md",
+			"schema.md",
+			"validating.md",
+			"writing.md"
+		]
+	},
+	"Groups": []
 }
