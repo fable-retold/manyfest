@@ -1,5 +1,7 @@
 # Manyfest
 
+> **[&#9654; Read the Manyfest Documentation](https://stevenvelozo.github.io/manyfest/)** &mdash; interactive docs with the full API reference.
+
 ## JSON Object Manifest for Data Description and Parsing
 
 We focus so much on documentation and description for the mechanics of data at rest, in software development.  Schema for databases.  Well-named variables in code, with comments.  Expressive languages for writing software or querying graphs of information.
