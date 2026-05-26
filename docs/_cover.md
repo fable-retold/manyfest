@@ -7,5 +7,5 @@
 - Hash-based lookups for friendly access to complex paths
 - Works in both Node.js and browser environments
 
-[GitHub](https://github.com/stevenvelozo/manyfest)
+[GitHub](https://github.com/fable-retold/manyfest)
 [Get Started](#manyfest)

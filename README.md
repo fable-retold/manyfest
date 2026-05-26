@@ -1,6 +1,6 @@
 # Manyfest
 
-> **[&#9654; Read the Manyfest Documentation](https://stevenvelozo.github.io/manyfest/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Manyfest Documentation](https://fable-retold.github.io/manyfest/)** &mdash; interactive docs with the full API reference.
 
 ## JSON Object Manifest for Data Description and Parsing
 
@@ -15,7 +15,7 @@ As data crosses these boundaries, though, context is lost.  We reinvent the whee
 
 Manyfest's purpose is to solve this problem by creating a simple pattern to describe, validate, manipulate and interpret data.
 
-![Official Mascot](https://github.com/stevenvelozo/manyfest/raw/main/diagrams/Mascot.jpg)
+![Official Mascot](https://github.com/fable-retold/manyfest/raw/main/diagrams/Mascot.jpg)
 
 _Man-E-Faces approves of Manyfest!_
 
@@ -434,7 +434,7 @@ With just a small number of element descriptors, we can make this huge blob of J
 }
 ```
 
-These two JSON files are in the [examples/chocula](https://github.com/stevenvelozo/manyfest/tree/main/examples/chocula) folder along with a javascript file `Chocula.js` you can try out yourself and hack on.
+These two JSON files are in the [examples/chocula](https://github.com/fable-retold/manyfest/tree/main/examples/chocula) folder along with a javascript file `Chocula.js` you can try out yourself and hack on.
 
 ```javascript
 let libManyfest = require('../../source/Manyfest.js');
@@ -522,7 +522,7 @@ The tuple will be a GUID or ID, but will represent both.  As long as only one en
 
 ## Related Packages
 
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 

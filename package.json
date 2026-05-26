@@ -19,7 +19,7 @@
     "types": "types/Manyfest.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stevenvelozo/manyfest.git"
+        "url": "git+https://github.com/fable-retold/manyfest.git"
     },
     "keywords": [
         "manifest",
@@ -56,7 +56,7 @@
     "author": "steven velozo <steven@velozo.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/manyfest/issues"
+        "url": "https://github.com/fable-retold/manyfest/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/manyfest#readme"
+    "homepage": "https://github.com/fable-retold/manyfest#readme"
 }
