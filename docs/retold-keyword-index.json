@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-26T21:14:55.079Z",
+	"Generated": "2026-06-01T03:50:27.118Z",
 	"Mode": "module",
 	"DocumentCount": 10,
 	"LunrIndex": {
@@ -7587,18 +7587,6 @@
 				}
 			],
 			[
-				"seamlessli",
-				{
-					"_index": 73,
-					"title": {},
-					"module": {},
-					"group": {},
-					"body": {
-						"README.md": {}
-					}
-				}
-			],
-			[
 				"second",
 				{
 					"_index": 185,
@@ -7859,6 +7847,18 @@
 					"group": {},
 					"body": {
 						"schema-manipulation.md": {}
+					}
+				}
+			],
+			[
+				"smoothli",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
 					}
 				}
 			],
