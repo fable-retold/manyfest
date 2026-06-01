@@ -103,6 +103,6 @@ manifest.setValueAtAddress(anyObject, 'any.new.path', 42); // Creates structure 
 
 ## Related Packages
 
-- [fable](https://github.com/fable-retold/fable) - Service dependency injection framework
-- [pict](https://github.com/fable-retold/pict) - UI application framework
-- [pict-view](https://github.com/fable-retold/pict-view) - View base class for Pict
+- [fable](https://fable-retold.github.io/fable/) - Service dependency injection framework
+- [pict](https://fable-retold.github.io/pict/) - UI application framework
+- [pict-view](https://fable-retold.github.io/pict-view/) - View base class for Pict
