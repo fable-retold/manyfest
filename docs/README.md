@@ -12,7 +12,7 @@ Manyfest provides a simple pattern to describe, validate, manipulate and interpr
 - **Validation** - Check objects against schemas for required fields and type conformance
 - **Default Population** - Fill in missing values based on schema definitions
 - **Auto-Structure Creation** - Writing to a nested path automatically creates intermediate objects
-- **Browser & Node.js** - Works seamlessly in both environments
+- **Browser & Node.js** - Works smoothly in both environments
 
 ## Quick Start
 

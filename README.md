@@ -1,6 +1,6 @@
 # Manyfest
 
-> **[&#9654; Read the Manyfest Documentation](https://fable-retold.github.io/manyfest/)** &mdash; interactive docs with the full API reference.
+> **[Read the Manyfest Documentation](https://fable-retold.github.io/manyfest/)** - interactive docs with the full API reference.
 
 ## JSON Object Manifest for Data Description and Parsing
 
